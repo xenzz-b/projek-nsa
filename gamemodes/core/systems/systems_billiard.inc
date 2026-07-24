@@ -1,5 +1,6 @@
 //Dodati pickupove i ukloniti drugi sto.
 #include <YSI_Coding\y_hooks>
+#include <YSI_Data\y_iterate>
 #include <physics>
 
 #define OBJ_SLOT_POOL (0)
